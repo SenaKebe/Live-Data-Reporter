@@ -1,0 +1,4 @@
+# Ignore the virtual environment and secrets
+venv/
+__pycache__/
+.env
