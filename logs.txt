@@ -1,1 +1,10 @@
 Thu Jun 26 12:12:21 2025 | SUCCESS | Fetched ISS position
+Thu Jun 26 12:18:16 2025 | FAILURE | Error fetching astronauts: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /astros.json (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000029B78FCAC10>, 'Connection to api.open-notify.org timed out. (connect timeout=None)'))
+Thu Jun 26 12:35:16 2025 | SUCCESS | Fetched astronauts
+Thu Jun 26 12:35:31 2025 | SUCCESS | Fetched news
+Thu Jun 26 12:35:31 2025 | FAILURE | News error: 'articles'
+Thu Jun 26 12:40:47 2025 | FAILURE | News error: 401 Client Error: Unauthorized for url: https://newsapi.org/v2/top-headlines?country=us&category=business&pageSize=3&apiKey=your_real_newsapi_key_here
+Thu Jun 26 12:41:08 2025 | SUCCESS | Fetched ISS position
+Thu Jun 26 12:41:19 2025 | SUCCESS | Fetched stock price
+Thu Jun 26 12:42:15 2025 | SUCCESS | Fetched news
+Thu Jun 26 12:42:35 2025 | SUCCESS | Fetched stock price
