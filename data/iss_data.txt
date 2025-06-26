@@ -1,0 +1,19 @@
+
+--- Astronauts ---
+Time: Tue Jun 24 10:19:33 2025
+Oleg Kononenko on ISS
+Nikolai Chub on ISS
+Tracy Caldwell Dyson on ISS
+Matthew Dominick on ISS
+Michael Barratt on ISS
+Jeanette Epps on ISS
+Alexander Grebenkin on ISS
+Butch Wilmore on ISS
+Sunita Williams on ISS
+Li Guangsu on Tiangong
+Li Cong on Tiangong
+Ye Guangfu on Tiangong
+
+--- ISS Location ---
+Time: Tue Jun 24 10:19:49 2025
+Latitude: 51.4745, Longitude: -26.6920
