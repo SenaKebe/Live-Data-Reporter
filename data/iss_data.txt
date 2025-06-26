@@ -17,3 +17,7 @@ Ye Guangfu on Tiangong
 --- ISS Location ---
 Time: Tue Jun 24 10:19:49 2025
 Latitude: 51.4745, Longitude: -26.6920
+
+--- ISS Location ---
+Time: Thu Jun 26 12:12:21 2025
+Latitude: 6.3722, Longitude: 23.5797
