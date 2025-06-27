@@ -40,3 +40,18 @@ Ye Guangfu on Tiangong
 --- ISS Location ---
 Time: Thu Jun 26 12:41:08 2025
 Latitude: -49.6630, Longitude: 132.4678
+
+--- Astronauts ---
+Time: Fri Jun 27 16:28:52 2025
+Oleg Kononenko on ISS
+Nikolai Chub on ISS
+Tracy Caldwell Dyson on ISS
+Matthew Dominick on ISS
+Michael Barratt on ISS
+Jeanette Epps on ISS
+Alexander Grebenkin on ISS
+Butch Wilmore on ISS
+Sunita Williams on ISS
+Li Guangsu on Tiangong
+Li Cong on Tiangong
+Ye Guangfu on Tiangong

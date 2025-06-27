@@ -8,14 +8,6 @@ A command-line tool to explore live data from space missions, financial markets,
 - 🌍 Track the ISS in real-time
 - 🗞️ Fetch top 3 U.S. business headlines or IBM stock prices
 
-## GUI Mode
-
-To launch the GUI version:
-
-````bash
-python gui.py
-
-
 ## Setup
 
 ```bash
@@ -24,4 +16,7 @@ cd live-data-reporter
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-````
+```
+
+How to run
+`python main.py`
